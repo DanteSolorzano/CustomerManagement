@@ -1,0 +1,12 @@
+{
+  "clients": [
+    {
+      "names": "Dante",
+      "company": "codigo con juan",
+      "email": "solorzanodante19@gmail.com",
+      "tel": "4621605199",
+      "notes": "nuevo cliente",
+      "id": 1
+    }
+  ]
+}
